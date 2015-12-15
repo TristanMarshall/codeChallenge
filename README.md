@@ -12,7 +12,7 @@
 - Bootstrap
 - Photoshop
 - Inkscape
----
+
 #### Notes:
 - 1 Media Query at 768px
 - 3 seperate pages (index.html, build.html & gallery.html) break up the .psd file into a more realistic viewing experience as appose to cramming all content into one page.
