@@ -22,6 +22,6 @@
 #### Due to time constraint:
 - Unable to make button/links with slanted sides.
 - Unable to make table at bottom of gallery page interactive/functional.
------
+
 Thank you kindly for your time and consideration! It was a great code challenge!
 -Tristan Marshall
