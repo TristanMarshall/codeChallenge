@@ -23,5 +23,5 @@
 - Unable to make button/links with slanted sides.
 - Unable to make table and at bottom of gallery page interactive/functional.
 
-Thank you kindly for your time and consideration! It was a great code challenge!
+Thank you kindly for your time and consideration
 -Tristan Marshall
