@@ -18,7 +18,7 @@
 - 3 seperate pages (index.html, build.html & gallery.html) break up the .psd file into a more realistic viewing experience as appose to cramming all content into one page.
 - At the bottom of each page, there are button/links to the other pages.
 - The appropriate links throughout the site are active (Link to build & price, link to gallery from build & price).
----
+
 #### Due to time constraint:
 - Unable to make button/links with slanted sides.
 - Unable to make table at bottom of gallery page interactive/functional.
